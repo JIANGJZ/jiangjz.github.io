@@ -10,8 +10,8 @@ redirect_from:
 Hi, I am currently an assistant profosser at Beijing Normal University, working on High Performance Computing, and Efficient Machine Learning System.
 
 You can find my email address by clicking this button:
-<button onclick="document.getElementById('email').style.display='block'">Email</button>
-<div id="email" style="display:none;">jiangjz@bnu.edu.cn</div>
+[Email](jiangjz@bnu.edu.cn)
+
 
 ## 🏫 Education
 - Ph.D in Computer Science, [Sun Yat-sen University](https://cse.sysu.edu.cn/) (National SuperComputer Center in Guangzhou).
@@ -19,7 +19,7 @@ You can find my email address by clicking this button:
 - Visiting Scholar, National University of Singapore (Xtra Lab).
   Advised by [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 - M.Sc Mayor in High Performance Computing, [South China University of Technology](https://www.scut.edu.cn).
-- Advised by Hu Chen.
+  Advised by Hu Chen.
 - B.Sc. Mayor in Software Engineering, [South China University of Technology](https://www.scut.edu.cn/).
 
 ## 💻 Research Interest
