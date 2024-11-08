@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China"
-title                    : "Your Name / Site Title"
+locale                   : "en-US" #"zh-CN"
+title                    : "Jiazhi Jiang(江嘉治) / HomePage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jiazhi Jiang"
+description              : &description "Someone"
 url                      : https://jiangjz.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Jiazhi Jiang(江嘉治)"
+  name             : "Jiazhi Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Our journey is defined by the paths we dare to tread."
   # location         : "ZhuHai/Guangzhou"
