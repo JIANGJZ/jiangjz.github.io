@@ -9,9 +9,6 @@ redirect_from:
 
 Hi, I am currently an assistant profosser at Beijing Normal University, working on High Performance Computing, and Efficient Machine Learning System.
 
-You can find my email address by clicking this button:
-[Email](jiangjz@bnu.edu.cn)
-
 
 ## 🏫 Education
 - Ph.D in Computer Science, [Sun Yat-sen University](https://cse.sysu.edu.cn/) (National SuperComputer Center in Guangzhou).
