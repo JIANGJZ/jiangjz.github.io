@@ -16,7 +16,7 @@ Hi, I am currently an assistant profosser at Beijing Normal University, working 
 - Visiting Scholar, Xtra Lab, National University of Singapore. <br>
   Advised by [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 - M.Sc. Mayor in High Performance Computing, [South China University of Technology](https://www.scut.edu.cn). <br>
-  Advised by Hu Chen.
+  Advised by [Hu Chen](https://www2.scut.edu.cn/sse/2018/0614/c16789a270665/page.htm).
 - B.Sc. Mayor in Software Engineering, [South China University of Technology](https://www.scut.edu.cn/).
 
 ## 💻 Research Interest
