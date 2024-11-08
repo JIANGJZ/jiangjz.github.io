@@ -49,6 +49,7 @@ My research interest focuses on ML System and HPC, including:
 
 ### Conference Publications
 - **[EuroPar 2024]** Jiazhi Jiang#, Hongbin Zhang#, Deyin Liu, Jiangsu Du, Jinhui Wei, Dan Huang, Yutong Lu "RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters"
+- **[PPoPP 2024]** Jiangsu Du, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference"
 - **[SC 2024]** Yuanxin Wei, Jiangsu Du, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang, Nong Xiao, Yutong Lu. APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes.
 - **[DATE 2024]** Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang, Jiangsu Du, Yutong Lu. Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference.
 - **[ICCD 2023]** Jiazhi Jiang, Rui Tian, Jiangsu Du, Dan Huang, Yutong Lu "MixRec: Orchestrating Concurrent Recommendation Model Training on CPU-GPU platform"
