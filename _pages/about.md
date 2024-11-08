@@ -11,11 +11,11 @@ Hi, I am currently an assistant profosser at Beijing Normal University, working 
 
 
 ## 🏫 Education
-- Ph.D in Computer Science, [Sun Yat-sen University](https://cse.sysu.edu.cn/) (National SuperComputer Center in Guangzhou).
+- Ph.D in Computer Science,[Sun Yat-sen University](https://cse.sysu.edu.cn/)(National SuperComputer Center in Guangzhou). <br>
   Advised by Profossor Xiaoke Liao/[Yutong Lu](https://cse.sysu.edu.cn/content/2483).
-- Visiting Scholar, National University of Singapore (Xtra Lab).
+- Visiting Scholar, National University of Singapore (Xtra Lab). <br>
   Advised by [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
-- M.Sc Mayor in High Performance Computing, [South China University of Technology](https://www.scut.edu.cn).
+- M.Sc. Mayor in High Performance Computing, [South China University of Technology](https://www.scut.edu.cn). <br>
   Advised by Hu Chen.
 - B.Sc. Mayor in Software Engineering, [South China University of Technology](https://www.scut.edu.cn/).
 
