@@ -27,8 +27,13 @@ My research interest focuses on ML System and HPC, including:
 - Task Scheduling for HPC-AI System.
 - Resource Mananagement on Cloud/HPC Platfrom.
 
+## 💻 Selected Publications
+- **[SC 2024]** Yuanxin Wei, Jiangsu Du, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang, Nong Xiao, Yutong Lu. APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes.
+
+- **[DATE 2024]** Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang, Jiangsu Du, Yutong Lu. Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference. 
+
 ## 🔥 News
-[01/11/24] Start working as an assitant professor at [Beijing Normal University, Zhuhai](https://www.bnuzh.edu.cn/).
+[01/11/24] Start working as an assistant professor at [Beijing Normal University, Zhuhai](https://www.bnuzh.edu.cn/).
 
 ## 🏆 Awards
 - Chinese National Scholarship in Sun Yat-sen University
