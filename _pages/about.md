@@ -28,7 +28,7 @@ My research interest focuses on ML System and HPC, including:
 - Resource Mananagement on Cloud/HPC Platfrom.
 
 ## 💻 Selected Publications
-(#equal contribution, *corresponding author)
+  (#equal contribution, *corresponding author)
 - **[TPDS 2024]**  Rui Tian#, Jiazhi Jiang#, Jiangsu Du, Dan Huang, Yutong Lu “Sophisticated Orchestrating Concurrent DLRM Training on CPU/GPU Platform”, TPDS 
 - **[EuroPar 2024] Jiazhi Jiang, Hongbin Zhang, Deyin Liu, Jiangsu Du, Jinhui Wei, Dan Huang, Yutong Lu "RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters"
 - **[SC 2024]** Yuanxin Wei, Jiangsu Du, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang, Nong Xiao, Yutong Lu. APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes.
