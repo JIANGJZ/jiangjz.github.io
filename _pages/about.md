@@ -31,5 +31,5 @@ My research interest focuses on ML System and HPC, including:
 [01/11/24] Start working as an assitant professor at [Beijing Normal University, Zhuhai](https://www.bnuzh.edu.cn/).
 
 ## 🏆 Awards
-Chinese National Scholarship in Sun Yat-sen University
-Chinese National Scholarship in South China University of Technology
+- Chinese National Scholarship in Sun Yat-sen University
+- Chinese National Scholarship in South China University of Technology
