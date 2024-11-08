@@ -37,7 +37,7 @@ My research interest focuses on ML System and HPC, including:
 ## 💻 Selected Publications
   (#equal contribution, *corresponding author)
 ### Journal Publications
-- **[TPDS 2024]**  Rui Tian#, Jiazhi Jiang#, Jiangsu Du, Dan Huang, Yutong Lu “Sophisticated Orchestrating Concurrent DLRM Training on CPU/GPU Platform”, TPDS 
+- **[TPDS 2024]**  Rui Tian#, Jiazhi Jiang#, Jiangsu Du, Dan Huang, Yutong Lu "Sophisticated Orchestrating Concurrent DLRM Training on CPU/GPU Platform"
 - **[TPDS 2023]** Jiazhi Jiang, Jiangsu Du, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full Stack Optimizing Transformer Inference on ARM Many-core CPU"
 - **[TACO 2023]** Jiazhi Jiang, Zijian Huang, Dan Huang, Jiangsu Du, Lin Chen, Zhiguang Chen, Yutong Lu,"Hierarchical Model Parallelism for Optimizing Inference on Many-core Processor Via Decoupled 3D-CNN Structure"
 - **[TACO 2023]** Jiangsu Du, Jiazhi Jiang, Jiang Zheng, Hongbin Zhang, Dan Huang, Yutong Lu "Improving Computation and Memory Efficiency for Real world Transformer Inference on GPUs"
