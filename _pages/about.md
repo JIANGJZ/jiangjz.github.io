@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently a assistant profosser at Beijing Normal University, working on High Performance Computing, and Efficient Machine Learning System.
+Hi, I am currently an assistant profosser at Beijing Normal University, working on High Performance Computing, and Efficient Machine Learning System.
