@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently an assistant profosser at Beijing Normal University, working on High Performance Computing, and Efficient Machine Learning System.
+Hi, I am currently an assistant profosser at [Beijing Normal University](https://www.bnuzh.edu.cn/), working on High Performance Computing, and Efficient Machine Learning System. Prior to this, I earned my Ph.D. from the Guangzhou Supercomputing Center at Sun Yat-sen University. I also have industry experience working as an R&D Engineer and Senior R&D Engineer at companies such as Baidu and NetEase Games.
 
 
 ## 🏫 Education
@@ -28,3 +28,8 @@ My research interest focuses on ML System and HPC, including:
 - Resource Mananagement on Cloud/HPC Platfrom.
 
 ## 🔥 News
+[01/11/24] Start working as an assitant professor at [Beijing Normal University, Zhuhai](https://www.bnuzh.edu.cn/).
+
+## 🏆 Awards
+Chinese National Scholarship in Sun Yat-sen University
+Chinese National Scholarship in South China University of Technology
