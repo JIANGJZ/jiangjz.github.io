@@ -11,7 +11,7 @@ Hi, I am currently an assistant profosser at Beijing Normal University, working 
 
 
 ## 🏫 Education
-- Ph.D in Computer Science,[Sun Yat-sen University](https://cse.sysu.edu.cn/)(National SuperComputer Center in Guangzhou). <br>
+- Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/) <br>
   Advised by Profossor Xiaoke Liao/[Yutong Lu](https://cse.sysu.edu.cn/content/2483).
 - Visiting Scholar, National University of Singapore (Xtra Lab). <br>
   Advised by [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
