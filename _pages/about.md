@@ -27,6 +27,13 @@ My research interest focuses on ML System and HPC, including:
 - Task Scheduling for HPC-AI System.
 - Resource Mananagement on Cloud/HPC Platfrom.
 
+## 🔥 News
+[01/11/24] Start working as an assistant professor at [Beijing Normal University, Zhuhai](https://www.bnuzh.edu.cn/).
+
+## 🏆 Awards
+- Chinese National Scholarship in Sun Yat-sen University
+- Chinese National Scholarship in South China University of Technology
+
 ## 💻 Selected Publications
   (#equal contribution, *corresponding author)
 - **[TPDS 2024]**  Rui Tian#, Jiazhi Jiang#, Jiangsu Du, Dan Huang, Yutong Lu “Sophisticated Orchestrating Concurrent DLRM Training on CPU/GPU Platform”, TPDS 
@@ -48,9 +55,4 @@ My research interest focuses on ML System and HPC, including:
 
 
 
-## 🔥 News
-[01/11/24] Start working as an assistant professor at [Beijing Normal University, Zhuhai](https://www.bnuzh.edu.cn/).
 
-## 🏆 Awards
-- Chinese National Scholarship in Sun Yat-sen University
-- Chinese National Scholarship in South China University of Technology
