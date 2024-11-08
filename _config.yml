@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : "Jiazhi Jiang"
+  name             : "Jiazhi Jiang(江嘉治)"
   pronouns         : # example: "she/her"  
-  bio              : "Our journey is defined by the paths we dare to tread"
+  bio              : "Our journey is defined by the paths we dare to tread."
   # location         : "ZhuHai/Guangzhou"
   employer         : "Beijing Normal University"
   uri              : # URL
