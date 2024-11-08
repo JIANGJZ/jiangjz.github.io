@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am currently an assistant profosser at [Beijing Normal University](https://www.bnuzh.edu.cn/), working on High Performance Computing, and Efficient Machine Learning System. Prior to this, I earned my Ph.D. from the Guangzhou Supercomputing Center at Sun Yat-sen University, 2024. I also have industry experience working as an R&D Engineer and Senior R&D Engineer at companies such as Baidu and NetEase Games. You can find my email address: jiangjz@bnu.edu.cn .
+Hi, I am currently an assistant profosser at [Beijing Normal University](https://www.bnuzh.edu.cn/), working on high performance computing and efficient machine learning system. Prior to this, I earned my Ph.D. from the Guangzhou Supercomputing Center at Sun Yat-sen University, July 2024. I also have industry experience working as an R&D Engineer and Senior R&D Engineer at companies such as Baidu and NetEase Games. You can find my email address: jiangjz@bnu.edu.cn .
 
 
 ## 🏫 Education
