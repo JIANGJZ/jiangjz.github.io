@@ -21,7 +21,7 @@ repository               : "JIANGJZ/jiangjz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "test.png"
+  avatar           : "me.png"
   name             : "Jiazhi Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Our journey is defined by the paths we dare to tread."
