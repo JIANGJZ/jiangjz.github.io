@@ -28,7 +28,7 @@ My research interest focuses on ML System and HPC, including:
 - Resource Mananagement on Cloud/HPC Platfrom.
 
 ## 🔥 News
-[01/11/24] Start working as an assistant professor at [Beijing Normal University](https://www.bnuzh.edu.cn/) in Zhuhai.
+[01/11/24] Start working as an assistant professor at [Beijing Normal University](https://www.bnuzh.edu.cn/)
 
 ## 🏆 Awards
 - Chinese National Scholarship in Sun Yat-sen University
