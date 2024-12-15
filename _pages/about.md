@@ -28,8 +28,8 @@ My research interest focuses on ML System and HPC, including:
 - Resource Mananagement on Cloud/HPC Platfrom.
 
 ## 🔥 News
-[15/12/24] One Paper Accepted For TPDS
-[01/11/24] Start working as an assistant professor at [Beijing Normal University](https://www.bnuzh.edu.cn/)
+- [15/12/24] One Paper Accepted For TPDS
+- [01/11/24] Start working as an assistant professor at [Beijing Normal University](https://www.bnuzh.edu.cn/)
 
 ## 🏆 Awards
 - Chinese National Scholarship in Sun Yat-sen University
