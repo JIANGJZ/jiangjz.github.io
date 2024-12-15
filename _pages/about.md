@@ -28,6 +28,7 @@ My research interest focuses on ML System and HPC, including:
 - Resource Mananagement on Cloud/HPC Platfrom.
 
 ## 🔥 News
+[15/12/24] One Paper Accepted For TPDS
 [01/11/24] Start working as an assistant professor at [Beijing Normal University](https://www.bnuzh.edu.cn/)
 
 ## 🏆 Awards
@@ -37,6 +38,7 @@ My research interest focuses on ML System and HPC, including:
 ## 💻 Selected Publications
   (#equal contribution, *corresponding author)
 ### Journal Publications
+- **[TPDS 2025]**  Jiangsu Du, Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Dan Huang, Xu Chen, Yutong Lu "Co-designing Transformer Architectures for Distributed Inference with Low Communication"
 - **[TPDS 2024]**  Rui Tian#, Jiazhi Jiang#, Jiangsu Du, Dan Huang, Yutong Lu "Sophisticated Orchestrating Concurrent DLRM Training on CPU/GPU Platform"
 - **[TPDS 2023]** Jiazhi Jiang, Jiangsu Du, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full Stack Optimizing Transformer Inference on ARM Many-core CPU"
 - **[TACO 2023]** Jiazhi Jiang, Zijian Huang, Dan Huang, Jiangsu Du, Lin Chen, Zhiguang Chen, Yutong Lu,"Hierarchical Model Parallelism for Optimizing Inference on Many-core Processor Via Decoupled 3D-CNN Structure"
