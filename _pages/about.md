@@ -12,7 +12,7 @@ Hi, I am currently an assistant profosser at [Beijing Normal University](https:/
 
 ## 🏫 Education
 - Ph.D in Guangzhou National SuperComputer Center,[Sun Yat-sen University](https://cse.sysu.edu.cn/) <br>
-  Advised by Profossor [Xiangke Liao](https://baike.baidu.com/item/%E5%BB%96%E6%B9%98%E7%A7%91/5128226), [Yutong Lu](https://cse.sysu.edu.cn/content/2483).
+  Advised by Profossor [Xiangke Liao](https://baike.baidu.com/item/%E5%BB%96%E6%B9%98%E7%A7%91/5128226), [Yutong Lu](https://cse.sysu.edu.cn/teacher/LuYutong).
 - Visiting Scholar, Xtra Lab, National University of Singapore. <br>
   Advised by [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/).
 - M.Sc. Mayor in High Performance Computing, [South China University of Technology](https://www.scut.edu.cn). <br>
