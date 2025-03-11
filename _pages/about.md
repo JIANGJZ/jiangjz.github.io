@@ -28,6 +28,7 @@ My research interest focuses on ML System and HPC, including:
 - Resource Mananagement on Cloud/HPC Platfrom.
 
 ## 🔥 News
+- [28/2/25] One Paper Accepted For SIGMOD
 - [15/12/24] One Paper Accepted For TPDS
 - [01/11/24] Start working as an assistant professor at [Beijing Normal University](https://www.bnuzh.edu.cn/)
 
