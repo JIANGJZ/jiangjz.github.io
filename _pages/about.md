@@ -51,6 +51,7 @@ My research interest focuses on ML System and HPC, including:
 
 
 ### Conference Publications
+- **[SIGMOD 2025]** Zihao Chen, Jiazhi Jiang*, Jianggang Liu, Chao Zhang, Yuqi Diao, Yang Li, Hanmei Luo, Peng Chen "Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Native Streaming Services in Tencent"
 - **[EuroPar 2024]** Jiazhi Jiang#, Hongbin Zhang#, Deyin Liu, Jiangsu Du, Jinhui Wei, Dan Huang, Yutong Lu "RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters"
 - **[PPoPP 2024]** Jiangsu Du, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference"
 - **[SC 2024]** Yuanxin Wei, Jiangsu Du, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang, Nong Xiao, Yutong Lu. APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes.
