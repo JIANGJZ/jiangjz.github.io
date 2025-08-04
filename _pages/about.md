@@ -28,6 +28,8 @@ My research interest focuses on ML System and HPC, including:
 - Resource Mananagement on Cloud/HPC Platfrom.
 
 ## 🔥 News
+- [1/8/25] One Paper Accepted For PACT 2025
+- [1/8/25] One Paper Accepted For ICCD 2025
 - [28/2/25] One Paper Accepted For SIGMOD 2025
 - [15/12/24] One Paper Accepted For TPDS
 - [01/11/24] Start working as an assistant professor at [Beijing Normal University](https://www.bnuzh.edu.cn/)
@@ -51,6 +53,8 @@ My research interest focuses on ML System and HPC, including:
 
 
 ### Conference Publications
+- **[ICCD 2025]** Jinhui Wei, Ye Huang, Yuhui Zhou, Jiazhi Jiang, and Jiangsu Du “Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism”
+- **[PACT 2025]** Jiazhi Jiang, Xiao Liu, Jiangsu Du, Dan Huang, Yutong Lu, “Adaptive and Contention-aware Model Parallelism for LLM Inference on Integrated CPU-GPU”
 - **[SIGMOD 2025]** Zihao Chen, Jiazhi Jiang*, Jianggang Liu, Chao Zhang, Yuqi Diao, Yang Li, Hanmei Luo, Peng Chen "Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Native Streaming Services in Tencent"
 - **[EuroPar 2024]** Jiazhi Jiang#, Hongbin Zhang#, Deyin Liu, Jiangsu Du, Jinhui Wei, Dan Huang, Yutong Lu "RTAI:Efficient Coupling Hybrid Workflow of Streaming AI and Ensemble Simulations on HPC Clusters"
 - **[PPoPP 2024]** Jiangsu Du, Jinhui Wei, Jiazhi Jiang, Shenggan Cheng, Dan Huang, Zhiguang Chen, Yulong Lu, "Liger: Interleaving Intra- and Inter-Operator Parallelism for Distributed Large Model Inference"
