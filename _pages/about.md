@@ -54,7 +54,7 @@ My research interest focuses on ML System and HPC, including:
 
 
 ### Conference Publications
-- **[VLDB 2025]** Qianhao Wu#, Jiazhi Jiang#*, Guihui Lin, Yue Pang, “Resilience-Aware Elastic Scaling for Cloud-Native Online DL Training on Multi-Tenant GPU Clusters”
+- **[VLDB 2026]** Qianhao Wu#, Jiazhi Jiang#*, Guihui Lin, Yue Pang, “Resilience-Aware Elastic Scaling for Cloud-Native Online DL Training on Multi-Tenant GPU Clusters”
 - **[ICCD 2025]** Jinhui Wei, Ye Huang, Yuhui Zhou, Jiazhi Jiang, and Jiangsu Du “Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism”
 - **[PACT 2025]** Jiazhi Jiang, Xiao Liu, Jiangsu Du, Dan Huang, Yutong Lu, “Adaptive and Contention-aware Model Parallelism for LLM Inference on Integrated CPU-GPU”
 - **[SIGMOD 2025]** Zihao Chen, Jiazhi Jiang*, Jianggang Liu, Chao Zhang, Yuqi Diao, Yang Li, Hanmei Luo, Peng Chen "Oceanus: Enable SLO-Aware Vertical Autoscaling for Cloud-Native Streaming Services in Tencent"
