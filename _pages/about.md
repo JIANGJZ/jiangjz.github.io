@@ -43,8 +43,7 @@ My research interest focuses on ML System and HPC, including:
 ## 💻 Selected Publications
   (#equal contribution, *corresponding author)
 ### Journal Publications
-- **[TPDS 2025]**  Jiazhi Jiang, Yao Chen, Zining Zhang, Bingsheng He, Pingyi Luo, Mian Lu, Dan Huang, Yutong Lu, "FuseSpill:
-Efficient KV Cache Spillover Management on Memory-Constrained GPU for LLM Inference"
+- **[TPDS 2025]**  Jiazhi Jiang, Yao Chen, Zining Zhang, Bingsheng He, Pingyi Luo, Mian Lu, Hongbing Zhang, Jiangsu Du, Dan Huang, Yutong Lu, "FuseSpill: Efficient KV Cache Spillover Management on Memory-Constrained GPU for LLM Inference"
 - **[TPDS 2025]**  Jiangsu Du, Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Dan Huang, Xu Chen, Yutong Lu "Co-designing Transformer Architectures for Distributed Inference with Low Communication"
 - **[TPDS 2024]**  Rui Tian#, Jiazhi Jiang#, Jiangsu Du, Dan Huang, Yutong Lu "Sophisticated Orchestrating Concurrent DLRM Training on CPU/GPU Platform"
 - **[TPDS 2023]** Jiazhi Jiang, Jiangsu Du, Dan Huang, Zhiguang Chen, Yutong Lu, Xiangke Liao, "Full Stack Optimizing Transformer Inference on ARM Many-core CPU"
