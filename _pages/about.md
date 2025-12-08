@@ -56,6 +56,7 @@ My research interest focuses on ML System and HPC, including:
 
 
 ### Conference Publications
+- **[PPoPP 2026]** Jiazhi Jiang, Xijia Yao, Jiayu Chen, Jinhui Wei, Dan Huang, Yutong Lu “ASM-SpMM: Unleashing the Potential of ARM SME for Sparse Matrix Multiplication Acceleration”
 - **[VLDB 2026]** Qianhao Wu#, Jiazhi Jiang#*, Guihui Lin, Yue Pang, “Resilience-Aware Elastic Scaling for Cloud-Native Online DL Training on Multi-Tenant GPU Clusters”
 - **[ICCD 2025]** Jinhui Wei, Ye Huang, Yuhui Zhou, Jiazhi Jiang, and Jiangsu Du “Ghidorah: Fast LLM Inference on Edge with Speculative Decoding and Hetero-Core Parallelism”
 - **[PACT 2025]** Jiazhi Jiang, Xiao Liu, Jiangsu Du, Dan Huang, Yutong Lu, “Adaptive and Contention-aware Model Parallelism for LLM Inference on Integrated CPU-GPU”
