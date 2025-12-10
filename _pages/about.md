@@ -28,6 +28,7 @@ My research interest focuses on ML System and HPC, including:
 - Resource Mananagement on Cloud/HPC Platfrom.
 
 ## 🔥 News
+- [10/12/25] One Paper Accepted For PPoPP 2026
 - [20/10/25] One Paper Accepted For TPDS 2025
 - [16/10/25] One Paper Accepted For VLDB 2026
 - [1/8/25] One Paper Accepted For PACT 2025
